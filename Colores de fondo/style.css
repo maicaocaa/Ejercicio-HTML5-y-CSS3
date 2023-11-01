@@ -1,0 +1,285 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url(./madera.jpg);
+}
+
+
+h1{
+    text-align:center;
+    padding:20px;
+    font-size: 6rem;
+}
+
+
+/* ============================
+          TABLA 
+===============================*/
+
+.tabla {
+    width:1200px;
+	height:600px;
+    background-color: aqua;
+    margin:auto;
+}
+
+.bloque {
+    width:1200px;
+	height:150px;
+    background-color: green;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+    
+    
+}
+
+.bblack {
+    width: 200px;
+	height: 150px;
+    background-color: black;
+    color:white;
+    font-size: 3rem;
+    line-height: 150px;
+    position:absolute;
+    
+}
+
+.bteal {
+    width: 200px;
+	height: 150px;
+    background-color: teal;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 200px;
+    position:absolute;
+}
+
+.bblue {
+    width: 200px;
+	height: 150px;
+    background-color: blue;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 400px;
+    position:absolute;
+}
+.bnavy {
+    width: 200px;
+	height: 150px;
+    background-color: navy;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 600px;
+    position:absolute;
+}
+
+
+.blime {
+    width: 200px;
+	height: 150px;
+    background-color: lime;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 800px;
+    position:absolute;
+}
+
+.bwhite {
+    width: 200px;
+	height: 150px;
+    background-color: white;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 1000px;
+    
+}
+
+.bpurple {
+    width: 200px;
+	height: 150px;
+    background-color: purple;
+    font-size: 3rem;
+    line-height: 150px;
+    position:absolute;
+}
+
+.byellow {
+    width: 200px;
+	height: 150px;
+    background-color: yellow;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 200px;
+    position:absolute;
+}
+
+.bolive1 {
+    width: 200px;
+	height: 150px;
+    background-color: olive;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 400px;
+    position:absolute;
+}
+
+.bred1 {
+    width: 200px;
+	height: 150px;
+    background-color: red;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 600px;
+    position:absolute;
+}
+
+.bmaroon {
+    width: 200px;
+	height: 150px;
+    background-color: maroon;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 800px;
+    position:absolute;
+}
+
+.bgray {
+    width: 200px;
+	height: 150px;
+    background-color: gray;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 1000px;
+}
+
+
+.bolive2{
+    width: 200px;
+	height: 150px;
+    background-color: olive;
+    font-size: 3rem;
+    line-height: 150px;
+    position:absolute;
+}
+
+.bred2{
+    width: 200px;
+	height: 150px;
+    background-color: red;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 200px;
+    position:absolute;
+}
+
+.bfuchsia {
+    width: 200px;
+	height: 150px;
+    background-color: fuchsia;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 400px;
+    position:absolute;
+}
+
+.bred1 {
+    width: 200px;
+	height: 150px;
+    background-color: red;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 600px;
+    position:absolute;
+}
+
+
+.bgreen {
+	height: 150px;
+    background-color: green;
+    font-size: 3rem;
+    line-height: 150px;
+    margin-left: 600px;
+    
+}
+
+/* ============================
+            LETRAS 
+===============================*/
+
+.letras {
+    width:1200px;
+	height:200px;
+    margin:auto;
+    font-size: 3.8rem;
+    text-align:center;
+  
+}
+
+.black {    
+    color:black;
+}
+
+.teal {
+    color:teal;
+
+}
+
+.blue {
+    color:blue;
+}
+
+.navy {
+    color:navy;
+}
+
+.lime {
+    color:lime;
+}
+
+.white {
+    color:white;
+}
+
+.purple {
+    color:purple;
+}
+
+.yellow {
+    color:yellow;
+}
+
+.olive {
+    color:olive;
+}
+
+.red {
+    color:red;
+}
+
+.marron {
+    color:marron;
+}
+
+.gray {
+    color:gray;
+}
+
+.fuchsia {
+    color:fuchsia;
+}
+
+.green {
+    color:green;
+}
+
+.aqua {
+    color:aqua;
+}
+
+.silver {
+    color:silver;
+}
+
